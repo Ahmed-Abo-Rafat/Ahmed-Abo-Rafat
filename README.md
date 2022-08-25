@@ -7,7 +7,7 @@
 <a href="https://accounts.google.com/SignOutOptions?hl=en-GB&continue=https://mail.google.com&service=mail" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ahmedrafat.mohomed@gmail.com" /></a>
 <a href="https://codepen.io/Ahmed-Abo-Rafat" target="blank"><img align="center" src="https://img.shields.io/badge/codepen-131417?style=for-the-badge&logo=codepen&logoColor=white" /></a> 
 </p>
-
+<div align="left" widht="70%">
 I'm a frontend reactJs developer who passionate about technology and i enjoy working <br>
 with Javascript, ReactJs, Html, Css, Sass.
 
@@ -18,7 +18,7 @@ Html, Css, Javascript, Bootstrap, Sass, React.js, Redux.js
 C++, Data structure, Algorithm, Problem Solving
 <br> <br>
 Portolio: https://ahmed-abo-rafat.github.io/Portoflio/
-
+</div>
 <div align="right" widht="25%">
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
