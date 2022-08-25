@@ -11,7 +11,6 @@
 I'm a frontend reactJs developer who passionate about technology and i enjoy working <br>
 with Javascript, ReactJs, Html, Css, Sass.
 
-<div align="left" widht="70%">
 <h3 align="left">Frontend Tools</h3>
 Html, Css, Javascript, Bootstrap, Sass, React.js, Redux.js
 
@@ -19,7 +18,6 @@ Html, Css, Javascript, Bootstrap, Sass, React.js, Redux.js
 C++, Data structure, Algorithm, Problem Solving
 <br> <br>
 Portolio: https://ahmed-abo-rafat.github.io/Portoflio/
-</div>
 
 <div align="right" widht="25%">
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
