@@ -9,6 +9,6 @@
 </p>
 
 I'm a frontend reactJs developer who passionate about technology and i enjoy working with Javascript, ReactJs, Html, Css, Sass.
-<div align=left>
+<div align="right" widht="25%">
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
