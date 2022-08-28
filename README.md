@@ -19,5 +19,5 @@ Html, Css, Javascript, Bootstrap, Sass, React.js, Redux.js
 <h3 align="left">Foundmental Tools</h3>
 C++, Data structure, Algorithm, Problem Solving
 <br> <br>
-Portolio: https://ahmed-abo-rafat.github.io/Portoflio/
+Portolio: https://ahmed-abo-rafat.github.io/Portfolio/
 
