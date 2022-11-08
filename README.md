@@ -14,7 +14,7 @@ I'm a frontend reactJs developer who passionate about technology and i enjoy wor
 with Javascript, ReactJs, Html, Css, Sass.
 
 <h3 align="left">Frontend Tools</h3>
-Html, Css, Javascript, Bootstrap, Sass, React.js, Redux.js
+Html, Css, Javascript, Bootstrap and Matrial UI, Sass, React.js, Redux.js, Next.js, Unit Testing With Jest
 
 <h3 align="left">Foundmental Tools</h3>
 C++, Data structure, Algorithm, Problem Solving
