@@ -17,7 +17,7 @@ with Javascript, ReactJs, Html, Css, Sass.
 Html, Css, Javascript, Bootstrap and Matrial UI, Sass, React.js, Redux.js, Next.js, Unit Testing With Jest
 
 <h3 align="left">Foundmental Tools</h3>
-C++, Data structure, Algorithm, Problem Solving
+C++, Problem Solving
 <br> <br>
 Portolio: https://ahmed-abo-rafat.github.io/Portfolio/
 
